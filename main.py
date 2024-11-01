@@ -1,4 +1,3 @@
-```python
 #Основной скрипт
 
 import psycopg2
@@ -29,4 +28,3 @@ def insert_row():
         conn.commit() # Фиксируем изменения в базе данных
 
 insert_row() # Вызываем функцию
-```
