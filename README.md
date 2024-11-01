@@ -1,1 +1,1 @@
-## Собираю простой ETL-пайплайн на основе PostgreSQL и Python.
+## Собираю простой ETL-пайплайн на PostgreSQL и Python.
